@@ -3,6 +3,10 @@ height:100vh;
 
 
 }
+p{
+color:#777;
+
+}
 
 body{
 background-color:#777;
@@ -21,7 +25,18 @@ background-color:#ebebeb;
 
 article{
     background-color:#777;
-    color: #ebebeb;
+    height:50%;
+
+}
+#article{
+    color:#ebebeb;
+
+}
+#headerTxt{
+    height:1.6em;
+    border-top-color:#ebebeb;
+    border-top-style:solid;
+    border-top-width:.5em;
 
 }
 
@@ -29,18 +44,15 @@ header, nav, footer, p{
     text-align:center;
     width:80%;
    margin-left:10%;
-
-   
 }
 
 #header, #nav, #footer{
 height:3em;
 padding-top:1.5em;
-
 }
 /* left side */
 #divOne{
-    height:20vh;
+    
     width:39%;
     margin-right:10%;
     background-color:#ebebeb;
@@ -52,7 +64,7 @@ padding-top:1.5em;
 
 /* right side */
 #divTwo{
-    height:20vh;
+   
     width:39%;
     margin-left:10%;
     background-color:#ebebeb;
@@ -61,6 +73,7 @@ padding-top:1.5em;
 }
 #divOne, #divTwo{
     margin-bottom:1em;
+    height:26vh;
 
 }
 
