@@ -35,6 +35,7 @@ article{
 }
 #article{
     color:#ebebeb;
+    margin-left:0;
 
 }
 #headerTxt{
@@ -49,6 +50,9 @@ header, nav, footer, p{
     text-align:center;
     width:80%;
    margin-left:10%;
+}
+.articleHeaders{
+    margin-left:0;
 }
 
 #header, #nav, #footer{
@@ -74,6 +78,9 @@ padding-top:1.5em;
     margin-left:10%;
     background-color:#ebebeb;
     float:left;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
 
 }
 #divOne, #divTwo{
@@ -85,5 +92,10 @@ padding-top:1.5em;
 footer{
 
     clear:both;
+
+}
+.secondArticleHeader{
+border-top-style:solid;
+border-top
 
 }
