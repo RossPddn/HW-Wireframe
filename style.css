@@ -92,10 +92,16 @@ padding-top:1.5em;
 footer{
 
     clear:both;
+}
+#secondArticleHeader{
+    border-top-style:solid;
+    border-top-width:.5em;
+    border-bottom-style:solid;
+    border-bottom-width:.5em;
+
 
 }
-.secondArticleHeader{
-border-top-style:solid;
-border-top
+#psection{
+    margin-top:0;
 
 }
