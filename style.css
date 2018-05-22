@@ -84,7 +84,7 @@ padding-top:1.5em;
 }
 #divOne, #divTwo{
     margin-bottom:1em;
-    height:40vh;
+    height:45vh;
 
 }
 
@@ -101,10 +101,14 @@ footer{
 
 }
 #psection{
-    margin-top:0;
+   padding-top:18px;
 
 }
 section{
-    margin-top:18px;
+    
 
+}
+aside p{
+    padding-top:18px;
+    margin-top:0;
 }
