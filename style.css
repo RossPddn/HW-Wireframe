@@ -42,7 +42,8 @@ article{
     height:1.6em;
     border-top-color:#ebebeb;
     border-top-style:solid;
-    border-top-width:.5em;
+    border-top-width:15px;
+    margin-top:0;
 
 }
 
@@ -78,9 +79,7 @@ padding-top:1.5em;
     margin-left:10%;
     background-color:#ebebeb;
     float:left;
-    display:flex;
-    justify-content:center;
-    flex-direction:column;
+   
 
 }
 #divOne, #divTwo{
@@ -103,5 +102,9 @@ footer{
 }
 #psection{
     margin-top:0;
+
+}
+section{
+    margin-top:18px;
 
 }
